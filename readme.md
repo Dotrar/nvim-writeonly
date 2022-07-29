@@ -2,9 +2,11 @@
 
 A plugin to help you not become your own worst enemy.
 
-This plugin temporaily disables most editing features, and forces you into insert mode.
+This plugin temporaily disables most editing features, and forces you into insert mode to write.
 
-When you're done, you can tap `<escape>` 15 (!) times to get out.
+When you're done, you can tap `<esc>` 15 (!) times to get out.
+
+Enable with `:Writeonly`
 
 ## Editing while writing:
 
